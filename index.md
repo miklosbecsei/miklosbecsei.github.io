@@ -1,4 +1,4 @@
-# Hello, Stranger!
+# Welcome!
 
 There is not much here... YET! 
 
