@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1606291707106,
+  "timestamp": 1615233743899,
   "index": "/standup-machine/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/standup-machine/favicon.png",
         "/standup-machine/index.html",
-        "/standup-machine/main.ed31738a62f431aa6596.js",
+        "/standup-machine/main.4b31472c4646be161e86.js",
         "/standup-machine/manifest.webmanifest",
         "/standup-machine/polyfills.35a5ca1855eb057f016a.js",
         "/standup-machine/runtime.acf0dec4155e77772545.js",
-        "/standup-machine/styles.afab4399da490ce739cb.css"
+        "/standup-machine/styles.05e6b01afa97642dd96d.css"
       ],
       "patterns": []
     },
@@ -52,12 +52,12 @@
     "/standup-machine/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/standup-machine/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/standup-machine/favicon.png": "88df9311ab99b96ecd7947d8128cb83d30228040",
-    "/standup-machine/index.html": "ae8515fac60d6fa329854a0361db8d9b72ba17ff",
-    "/standup-machine/main.ed31738a62f431aa6596.js": "b47c84d22a4ab78304cf7f8f97eb7f40106f46db",
+    "/standup-machine/index.html": "d899373bd9faf95464ff26b08173e7b94796fbab",
+    "/standup-machine/main.4b31472c4646be161e86.js": "2e9e6e29b01b7b90cd0f1fe20d3930dc2e010bcb",
     "/standup-machine/manifest.webmanifest": "46b00ec87f6c6b60ffb4ddf3176f391d79bfbf9c",
     "/standup-machine/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/standup-machine/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/standup-machine/styles.afab4399da490ce739cb.css": "29c605c2442047ebdf4d7442e8371d5b147a6c76"
+    "/standup-machine/styles.05e6b01afa97642dd96d.css": "ccfa6e2cebbc2e4e562e6cf839a3f9f92a8c7101"
   },
   "navigationUrls": [
     {
